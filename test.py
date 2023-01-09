@@ -99,3 +99,10 @@ c.bind_all('<Right>', droite)
 c.bind_all('<Left>' , gauche)
 
 fen1.mainloop()
+
+
+# import matploblib.pyplot as matpl
+
+# def graphique():
+#    matpl.bar(valeurs_x, valeurs_y)
+#   par exemples clés et valeurs d'un dico
