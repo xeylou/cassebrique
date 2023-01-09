@@ -106,3 +106,9 @@ fen1.mainloop()
 # def graphique():
 #    matpl.bar(valeurs_x, valeurs_y)
 #   par exemples clés et valeurs d'un dico
+
+
+# import matplotlib.pyplot as plt
+# plt.plot([1, 2, 3, 4])
+# plt.ylabel('some numbers')
+# plt.show()
